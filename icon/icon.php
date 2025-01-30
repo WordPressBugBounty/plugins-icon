@@ -3,7 +3,7 @@
 Plugin Name: Icon
 Plugin URI: http://ghozylab.com/plugins/
 Description: Icon - Display icon anywhere you like. You can quickly customize any icons to look exactly the way you want them to look.
-Author: GhozyLab, Inc.
+Author: PT. GHOZY LAB LLC
 Text Domain: icon
 Domain Path: /languages
 Version: 1.0.0.11
