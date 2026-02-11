@@ -3,7 +3,7 @@ Contributors: GhozyLab
 Donate link: https://ghozy.link/rs3bq
 Tags: icon, icons, icon font, flat icon, web icon
 Requires at least: 3.3
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 1.0.0.11
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
